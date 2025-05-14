@@ -19,16 +19,16 @@ I'm a self-taught **Frontend Developer** passionate about building responsive, u
 Built using React + Firebase for seamless messaging.  
 👉 [Live Demo](https://vmeeting.netlify.app/) | [GitHub Repo](https://github.com/ReetikBasniwal/virtual-meet)
 
-#### 🔹 Habbit App  
+#### 🔹 Habbit Tracker App  
 A simple to-do app with Firebase Auth and Firestore integration.  
-👉 [Live Demo](#) | [GitHub Repo](#)
+👉 [Live Demo](https://habbittrackerreact.netlify.app/) | [GitHub Repo](https://github.com/ReetikBasniwal/habbitTracker-react)
 
 ---
 
 ### 📫 Let's Connect!
-- LinkedIn: [linkedin.com/in/reetik-yourusername](#)
-- Twitter: [twitter.com/yourhandle](#)
-- Email: `reetik.yourmail@example.com`
+- LinkedIn: [linkedin.com/in/reetik-yourusername](https://www.linkedin.com/in/reetik-basniwal-156801121/)
+- Twitter: [twitter.com/yourhandle](https://x.com/ReetikBasniwal)
+- Email: `reetikbasniwal@gmail.com`
 
 ---
 
