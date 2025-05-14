@@ -15,15 +15,11 @@ I'm a self-taught **Frontend Developer** passionate about building responsive, u
 
 ### 🚀 Featured Projects
 
-#### 🔹 Real-Time Chat App  
+#### 🔹 Virtual Meeting App  
 Built using React + Firebase for seamless messaging.  
-👉 [Live Demo](#) | [GitHub Repo](#)
+👉 [Live Demo](https://vmeeting.netlify.app/) | [GitHub Repo](https://github.com/ReetikBasniwal/virtual-meet)
 
-#### 🔹 Personal Portfolio Website  
-My developer portfolio built with React and Tailwind CSS.  
-👉 [Live Demo](#) | [GitHub Repo](#)
-
-#### 🔹 Task Manager App  
+#### 🔹 Habbit App  
 A simple to-do app with Firebase Auth and Firestore integration.  
 👉 [Live Demo](#) | [GitHub Repo](#)
 
