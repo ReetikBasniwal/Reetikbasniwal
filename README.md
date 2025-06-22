@@ -27,7 +27,7 @@ A simple to-do app with Firebase Auth and Firestore integration.
 
 ### 📫 Let's Connect!
 - LinkedIn: [linkedin.com/in/reetik-yourusername](https://www.linkedin.com/in/reetik-basniwal-156801121/)
-- Twitter: [twitter.com/yourhandle](https://x.com/ReetikBasniwal)
+- Twitter: [@ReetikBasniwal](https://x.com/ReetikBasniwal)
 - Email: `reetikbasniwal@gmail.com`
 
 ---
