@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=ReetikBasniwal&color=blueviolet)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ReetikBasniwal.Reetikbasniwal)
 
 # 👋 Hey there, I'm Reetik!
 
