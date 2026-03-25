@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=ReetikBasniwal&color=blueviolet)
+
 # 👋 Hey there, I'm Reetik!
 
 I'm a self-taught **Frontend Developer** passionate about building responsive, user-friendly, and optimized web applications. Currently focused on leveling up my skills and landing my next frontend role.
@@ -33,4 +35,4 @@ A simple to-do app with Firebase Auth and Firestore integration.
 ---
 
 ### ⚡ Fun Fact
-I’m currently building daily and aiming to join a high-energy team to contribute to meaningful frontend projects!
+I'm currently building daily and aiming to join a high-energy team to contribute to meaningful frontend projects!
